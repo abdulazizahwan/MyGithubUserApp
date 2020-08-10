@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Github User App</string>
+
+    <string name="dummy_name">Sidiq Permana</string>
+    <string name="dummy_username">\@sidiqpermana</string>
+    <string name="dummy_repositories">200 repositori</string>
+    <string name="dummy_total_repositories">100</string>
+    <string name="dummy_total_followers">1.5K</string>
+    <string name="dummy_total_following">500</string>
+
+    <string name="formatted_username">\@%s</string>
+    <string name="total_repositories">%s repositori</string>
+
+    <string name="label_repositories">repositori</string>
+    <string name="label_followers">pengikut</string>
+    <string name="label_following">mengikuti</string>
+
+    <string name="search">Pencarian</string>
+    <string name="search_hint">Cari pengguna Github…</string>
+    <string name="search_toast">Kamu mencari %s</string>
+
+    <string name="select_toast">Kamu memilih \@%s</string>
+
+    <string name="tab_followers">Pengikut</string>
+    <string name="tab_following">Mengikuti</string>
+
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+</resources>

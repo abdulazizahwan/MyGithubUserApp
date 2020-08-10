@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My Github User App</string>
+
+    <string name="dummy_name">Sidiq Permana</string>
+    <string name="dummy_username">\@sidiqpermana</string>
+    <string name="dummy_repositories">200 repositories</string>
+    <string name="dummy_total_repositories">100</string>
+    <string name="dummy_total_followers">1.5K</string>
+    <string name="dummy_total_following">500</string>
+
+    <string name="formatted_username">\@%s</string>
+    <string name="total_repositories">%s repositories</string>
+    
+    <string name="label_repositories">repositories</string>
+    <string name="label_followers">followers</string>
+    <string name="label_following">following</string>
+
+    <string name="search">Search</string>
+    <string name="search_hint">Search a Github user…</string>
+    <string name="search_toast">You search %s</string>
+
+    <string name="select_toast">You choose \@%s</string>
+
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+
+    <string name="change_language_settings">Change a Language Setting</string>
+</resources>
